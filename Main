@@ -7,9 +7,9 @@ vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@zula.ir:443?path=%2Fhajmi%3Fed%3D20
 vless://7173507c-0c46-4b7a-a824-9e97f5c7e7ee@www.speedtest.net:443?path=%2Fhajmi%3Fed%3D2048%2FTelegram%40V2ray_alpha%2Fhajmi%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&host=nb-de.qfruiti.com&fp=firefox&type=ws&sni=qfruiti.com#9ofkwon
 
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@190.93.246.241:443?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#992kcow
-
+vless://50db398c-40aa-4840-b8ef-cd2d40cabdf2@zula.ir:2087?mode=gun&security=tls&encryption=none&alpn=h2,h3&fp=chrome&type=grpc&serviceName=&sni=pizbom8.sunlifesystems.info#%F0%9D%97%A9%F0%9D%97%BD%CD%AB%F0%9D%97%BB%E1%B7%A7%3D%40%F0%9D%96%B5%F0%9D%97%89%F0%9D%97%87%F0%9D%96%AC%F0%9D%96%BA%F0%9D%96%BA%F0%9D%97%87%F0%9F%8C%B9+%DA%86%D9%8E%D8%AE+%DA%86%D8%AE%DB%8C
 vless://cb211e44-7725-4ddc-b52e-6a0059162fde@104.25.255.9:443?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=MoZ.SOFt98.dEdyn.Io&fp=chrome&type=ws&sni=moZ.soft98.deDYn.io#99cjwiciw
-
+vmess://eyJhZGQiOiIxNzIuMjM0Ljk2Ljc2IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhbWlyemFwbHVzLmNvbSIsImlkIjoiM2JkOGIxYTctMjQ0ZS00MGIxLTg2ODYtZTI2MmMyY2IyMzlmIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTc0MjUiLCJwcyI6Ikdlcm1hbnkg8J+HqfCfh6oiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@Iranserver.com:443?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#19f8jwkw
 
 vless://29f8ad12-ea84-431b-bf32-9d3fb5cf2aa2@172.67.174.190:443?path=%2FPath%2FTelegram%40V2ray_alpha%2F%3Fed%3D2048&security=tls&encryption=none&host=w1.sylar8.eu.org&type=ws&sni=w1.sylar8.eu.org#idisidjdj
