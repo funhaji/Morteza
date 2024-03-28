@@ -5,3 +5,15 @@ vmess://eyJhZGQiOiJsYXgtbXN0Lm1vYmFpbGVtYXguaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZw
 vless://26d17e2c-791f-4e6a-a015-9787ef09fe61@190.93.244.234:443?mode=gun&security=tls&encryption=none&alpn=h2&fp=chrome&type=grpc&serviceName=Od8VH6T2ZqtRbAoKrNthVqd4iC&sni=lax-allnet.mobailemax.ir#%5B+%D9%87%D9%85%D9%87+%D9%86%D8%AA%D8%A7+%5D+%F0%9F%9A%80-%F0%9F%87%AB%F0%9F%87%B7
 vless://d3b273f9-3551-44b9-83c7-6fa342a699c5@www.you.com:443?path=%2F&security=tls&encryption=none&host=de1.v2vless.xyz&sni=de1.v2vless.xyz&type=ws#germany-🇩🇪1
 vless://b8ce493e-7f20-4f98-ab48-f1f5f4ab7d0f@www.you.com:443?path=%2F&security=tls&encryption=none&host=de2.v2vless.xyz&sni=de2.v2vless.xyz&type=ws#germany-🇩🇪2
+vless://462f3c60-3def-4403-9c45-61def7c83707@www.you.com:443?path=%2F&security=tls&encryption=none&host=fi1.v2vless.xyz&sni=fi1.v2vless.xyz&type=ws#finland-🇫🇮1
+vless://6ba5d9ed-4521-408d-99b3-8e838b5696d0@www.you.com:443?path=%2F&security=tls&encryption=none&host=hk1.v2vless.xyz&sni=hk1.v2vless.xyz&type=ws#hongkong-🇭🇰1
+vless://4c87d5c2-2d3b-479e-9e57-b9d799553dc5@www.you.com:443?path=%2F&security=tls&encryption=none&host=il1.v2vless.xyz&sni=il1.v2vless.xyz&type=ws#israel-🇮🇱1
+vless://c14f672a-23fb-4a4e-af60-daf65e83bc88@www.you.com:443?path=%2F&security=tls&encryption=none&host=ca1.v2vless.xyz&sni=ca1.v2vless.xyz&type=ws#canada-🇨🇦2
+vless://2561ed0d-5565-46b5-9cea-8b71c376d67b@www.you.com:443?path=%2F&security=tls&encryption=none&host=ca2.v2vless.xyz&sni=ca2.v2vless.xyz&type=ws#canada-🇨🇦2
+vless://ec43745a-0d8f-4be0-bd92-ebb9599f01c0@www.you.com:443?path=%2F&security=tls&encryption=none&host=it1.v2vless.xyz&sni=it1.v2vless.xyz&type=ws#italy-🇮🇹1
+vless://720b3c15-e7a1-4a00-b70d-c024782ac2a4@www.you.com:443?path=%2F&security=tls&encryption=none&host=it2.v2vless.xyz&sni=it2.v2vless.xyz&type=ws#italy-🇮🇹2
+vless://d159cd77-8ad4-4afa-b6fa-85dc9939ec00@www.you.com:443?path=%2F&security=tls&encryption=none&host=us1.v2vless.xyz&sni=us1.v2vless.xyz&type=ws#usa-🇺🇸1
+vless://aa825875-235b-419c-86f1-a3f84618d400@www.you.com:443?path=%2F&security=tls&encryption=none&host=us2.v2vless.xyz&sni=us2.v2vless.xyz&type=ws#usa-🇺🇸2
+vless://ab2c8a7a-56a6-40c7-af3f-c190ae9216bd@www.you.com:443?path=%2F&security=tls&encryption=none&host=uk1.v2vless.xyz&sni=uk1.v2vless.xyz&type=ws#uk-🇬🇧1
+vless://7e1c3c4d-8dc1-41d4-b003-2edfcf4cc0f3@www.you.com:443?path=%2&security=tls&encryption=none&host=uk2.v2vless.xyz&sni=uk2.v2vless.xyz&type=ws#uk-🇬🇧2
+vless://6be86aa2-802c-4d3e-8b53-4c22a7e5f702@www.you.com:443?path=%2F&security=tls&encryption=none&host=ua1.v2vless.xyz&sni=ua1.v2vless.xyz&type=ws#ukraine-🇺🇦1
